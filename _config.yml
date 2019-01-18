@@ -1,3 +1,4 @@
+title : [Demo page]
 plugins:
   - jekyll-relative-links
 relative_links:
