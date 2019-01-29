@@ -16,7 +16,7 @@ layout: default
 #### 6
 <audio src="baseline_9min_12k/baseline_9min_11.wav" controls preload></audio>
 
-### Part 2 : Please compare the fisrt / second is better (clarity, quality)
+### Part 2 : Please compare the fisrt / second is better (articulation, quality)
 #### 1
 <audio src="wgan_9min/wgan_9min_6.wav" controls preload></audio>
 <audio src="baseline_9min_12k/baseline_9min_6.wav" controls preload></audio>
