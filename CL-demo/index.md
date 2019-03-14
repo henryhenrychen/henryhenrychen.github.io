@@ -7,7 +7,7 @@ layout: default
 <audio src="25min/f05-read-0009_predicted_scratch.wav" controls preload></audio>
 #### Trained with shared IPA
 <audio src="25min/f05-read-0009_predicted_share.wav" controls preload></audio>
-#### Traied with separate input space
+#### Trained with separate input space
 <audio src="25min/f05-read-0009_predicted_separate.wav" controls preload></audio>
 #### Trained with found phone-mapping
 <audio src="25min/f05-read-0009_predicted_mapping.wav" controls preload></audio>
@@ -19,7 +19,7 @@ layout: default
 <audio src="15min/f05-read-0170_predicted_scratch.wav" controls preload></audio>
 #### Trained with shared IPA
 <audio src="15min/f05-read-0170_predicted_share.wav" controls preload></audio>
-#### Traied with separate input space
+#### Trained with separate input space
 <audio src="15min/f05-read-0170_predicted_separate.wav" controls preload></audio>
 #### Trained with found phone-mapping
 <audio src="15min/f05-read-0170_predicted_smapping.wav" controls preload></audio>
