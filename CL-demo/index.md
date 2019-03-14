@@ -10,7 +10,7 @@ layout: default
 #### Trained with separate input space
 <audio src="25min/f05-read-0009_predicted_separate.wav" controls preload></audio>
 #### Trained with found phone-mapping
-<audio src="25min/f05-read-0009_predicted_mapping.wav" controls preload></audio>
+<audio src="25min/f05-read-0009_predicted_map.wav" controls preload></audio>
 #### Ground Truth
 <audio src="25min/f05-read-0009.wav" controls preload></audio>
 
@@ -22,6 +22,6 @@ layout: default
 #### Trained with separate input space
 <audio src="15min/f05-read-0170_predicted_separate.wav" controls preload></audio>
 #### Trained with found phone-mapping
-<audio src="15min/f05-read-0170_predicted_smapping.wav" controls preload></audio>
+<audio src="15min/f05-read-0170_predicted_map.wav" controls preload></audio>
 #### Ground Truth
 <audio src="15min/f05-read-0170.wav" controls preload></audio>
