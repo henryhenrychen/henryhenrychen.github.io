@@ -64,6 +64,6 @@ layout: default
 --------
 
 ### 2
-A audio                                                  | B audio 
+A audio                                                  | B audio  
 ----------------------------------- ---------------------|-----------
 <audio src="MOS/scratch/4.wav" controls preload></audio> |
