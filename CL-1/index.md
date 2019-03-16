@@ -12,55 +12,54 @@ Rating criteria is below (評分標準如下
 * 1: Impossible to communicate （完全不能溝通/聽懂）
 
 #### No. 0
-<audio src="MOS/separate/f05-read-0947_predicted.wav" controls preload></
+<audio src="MOS/separate/f05-read-0947_predicted.wav" controls preload><
 #### No. 1
-<audio src="MOS/share/f05-read-0397_predicted.wav" controls preload></
+<audio src="MOS/share/f05-read-0397_predicted.wav" controls preload><
 #### No. 2
-<audio src="MOS/separate/f05-read-0971_predicted.wav" controls preload></
+<audio src="MOS/separate/f05-read-0971_predicted.wav" controls preload><
 #### No. 3
-<audio src="MOS/share/f05-read-0212_predicted.wav" controls preload></
+<audio src="MOS/share/f05-read-0212_predicted.wav" controls preload><
 #### No. 4
-<audio src="MOS/ground_truth/f05-read-0940.wav" controls preload></
+<audio src="MOS/ground_truth/f05-read-0940.wav" controls preload><
 #### No. 5
-<audio src="MOS/share/f05-read-0203_predicted.wav" controls preload></
+<audio src="MOS/share/f05-read-0203_predicted.wav" controls preload><
 #### No. 6
-<audio src="MOS/separate/f05-read-0975_predicted.wav" controls preload></
+<audio src="MOS/separate/f05-read-0975_predicted.wav" controls preload><
 #### No. 7
-<audio src="MOS/ground_truth/f05-read-0272.wav" controls preload></
+<audio src="MOS/ground_truth/f05-read-0272.wav" controls preload><
 #### No. 8
-<audio src="MOS/map/f05-read-0247_predicted.wav" controls preload></
+<audio src="MOS/map/f05-read-0247_predicted.wav" controls preload><
 #### No. 9
-<audio src="MOS/map/f05-read-0498_predicted.wav" controls preload></
+<audio src="MOS/map/f05-read-0498_predicted.wav" controls preload><
 #### No. 10
-<audio src="MOS/scratch/7.wav" controls preload></
+<audio src="MOS/scratch/7.wav" controls preload><
 #### No. 11
-<audio src="MOS/ground_truth/f05-read-0200.wav" controls preload></
+<audio src="MOS/ground_truth/f05-read-0200.wav" controls preload><
 #### No. 12
-<audio src="MOS/scratch/4.wav" controls preload></
+<audio src="MOS/scratch/4.wav" controls preload><
 #### No. 13
-<audio src="MOS/map/f05-read-0555_predicted.wav" controls preload></
+<audio src="MOS/map/f05-read-0555_predicted.wav" controls preload><
 #### No. 14
-<audio src="MOS/share/f05-read-0428_predicted.wav" controls preload></
+<audio src="MOS/share/f05-read-0428_predicted.wav" controls preload><
 #### No. 15
-<audio src="MOS/map/f05-read-0564_predicted.wav" controls preload></
+<audio src="MOS/map/f05-read-0564_predicted.wav" controls preload><
 #### No. 16
-<audio src="MOS/scratch/5.wav" controls preload></
+<audio src="MOS/scratch/5.wav" controls preload><
 #### No. 17
-<audio src="MOS/ground_truth/f05-read-0009.wav" controls preload></
+<audio src="MOS/ground_truth/f05-read-0009.wav" controls preload><
 #### No. 18
-<audio src="MOS/separate/f05-read-0996_predicted.wav" controls preload></
+<audio src="MOS/separate/f05-read-0996_predicted.wav" controls preload><
 #### No. 19
-<audio src="MOS/scratch/6.wav" controls preload></
+<audio src="MOS/scratch/6.wav" controls preload><
 #### No. 20
-<audio src="MOS/share/f05-read-0247_predicted.wav" controls preload></
+<audio src="MOS/share/f05-read-0247_predicted.wav" controls preload><
 #### No. 21
-<audio src="MOS/scratch/8.wav" controls preload></
+<audio src="MOS/scratch/8.wav" controls preload><
 #### No. 22
-<audio src="MOS/ground_truth/f05-read-0169.wav" controls preload></
+<audio src="MOS/ground_truth/f05-read-0169.wav" controls preload><
 #### No. 23
-<audio src="MOS/map/f05-read-0397_predicted.wav" controls preload></
+<audio src="MOS/map/f05-read-0397_predicted.wav" controls preload><
 #### No. 24
-<audio src="MOS/separate/f05-read-0599_predicted.wav" controls preload></
-
+<audio src="MOS/separate/f05-read-0599_predicted.wav" controls preload><
 --------
 
