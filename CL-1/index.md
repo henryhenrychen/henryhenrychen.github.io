@@ -2,9 +2,9 @@
 layout: default
 ---
 # Part 1 
-### There will be 25 audio samples in this part(這部份將會有25個音檔  
-### Please give your ratings after listening to them (請仔細聆聽後給予分數  
-### Rating criteria is below (評分標準如下
+#### There will be 25 audio samples in this part(這部份將會有25個音檔  
+#### Please give your ratings after listening to them (請仔細聆聽後給予分數  
+#### Rating criteria is below (評分標準如下
 * 5: Perfect. Like face-to-face conversation or radio reception. (很好，幾乎跟面對面對話或是​​無線電收音一樣好）
 * 4: Fair. Imperfections can be perceived, but sound still clear. This is (supposedly) the range for cell * phones.（合理的，能感覺到一點不完美，但仍然清楚。可能跟手機聽到得聲音差不多）
 * 3: Annoying. (令人討厭）
@@ -61,14 +61,15 @@ layout: default
 <audio src="MOS/separate/f05-read-0599_predicted.wav" controls preload></audio>
 #### No. 25
 <audio src="MOS/scratch/4.wav" controls preload></audio>
+
 - - -
 
 # Part 2 :
-### In this part there will be 24 set of audio samples (此部份將會有24組音檔
-### For each set, you will be asked to listen to A audio and B audio (每一組將會有A音檔及B音檔）
-### They both correspond to the same phrase （兩個音檔內容皆對應到相同文字
-### Please according to "Naturalness" and "Completeness" （請根據"清楚流暢度"  和 "與文字相符程度"
-### choose which one is better（選出你覺得比較好的
+#### In this part there will be 24 set of audio samples (此部份將會有24組音檔
+#### For each set, you will be asked to listen to A audio and B audio (每一組將會有A音檔及B音檔）
+#### They both correspond to the same phrase （兩個音檔內容皆對應到相同文字
+#### Please according to "Naturalness" and "Completeness" （請根據"清楚流暢度"  和 "與文字相符程度"
+#### choose which one is better（選出你覺得比較好的
 
 #### No. 1
 ##### A audio
