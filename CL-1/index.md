@@ -61,9 +61,13 @@ layout: default
 <audio src="MOS/separate/f05-read-0599_predicted.wav" controls preload></audio>
 #### No. 25
 <audio src="MOS/scratch/4.wav" controls preload></audio>
---------
+- - - 
+
 
 ### 2
-A audio                                                  | B audio  
----------------------------------------------------------|-----------
-<audio src="MOS/scratch/4.wav" controls preload></audio> | <audio src="MOS/scratch/4.wav" controls preload></audio>
+#### No. 1
+##### A audio                                                
+<audio src="MOS/scratch/4.wav" controls preload></audio> 
+##### B audio 
+<audio src="MOS/scratch/4.wav" controls preload></audio>
+- - -
