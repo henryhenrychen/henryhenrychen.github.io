@@ -72,123 +72,123 @@ layout: default
 #### choose which one is better（選出你覺得比較好的
 
 
-#### No. 1
+#### *No. 1*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0856/f05-read-0856_share.wav" controls preload></audio>
+<audio src="AB-test/25min/0121/f05-read-0121_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0856/f05-read-0856_map.wav" controls preload></audio>
-#### No. 2
+<audio src="AB-test/25min/0121/f05-read-0121_map.wav" controls preload></audio>
+#### *No. 2*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0285/f05-read-0285_separate.wav" controls preload></audio>
+<audio src="AB-test/25min/0201/f05-read-0201_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0285/f05-read-0285_map.wav" controls preload></audio>
-#### No. 3
+<audio src="AB-test/25min/0201/f05-read-0201_separate.wav" controls preload></audio>
+#### *No. 3*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0751/f05-read-0751_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0431/f05-read-0431_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0751/f05-read-0751_share.wav" controls preload></audio>
-#### No. 4
+<audio src="AB-test/15min/0431/f05-read-0431_share.wav" controls preload></audio>
+#### *No. 4*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0343/f05-read-0343_share.wav" controls preload></audio>
+<audio src="AB-test/15min/0054/f05-read-0054_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0343/f05-read-0343_map.wav" controls preload></audio>
-#### No. 5
+<audio src="AB-test/15min/0054/f05-read-0054_map.wav" controls preload></audio>
+#### *No. 5*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0051/f05-read-0051_separate.wav" controls preload></audio>
+<audio src="AB-test/25min/0543/f05-read-0543_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0051/f05-read-0051_share.wav" controls preload></audio>
-#### No. 6
+<audio src="AB-test/25min/0543/f05-read-0543_map.wav" controls preload></audio>
+#### *No. 6*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0096/f05-read-0096_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0156/f05-read-0156_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0096/f05-read-0096_share.wav" controls preload></audio>
-#### No. 7
+<audio src="AB-test/15min/0156/f05-read-0156_share.wav" controls preload></audio>
+#### *No. 7*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0054/f05-read-0054_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0751/f05-read-0751_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0054/f05-read-0054_map.wav" controls preload></audio>
-#### No. 8
+<audio src="AB-test/15min/0751/f05-read-0751_separate.wav" controls preload></audio>
+#### *No. 8*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0431/f05-read-0431_share.wav" controls preload></audio>
+<audio src="AB-test/25min/0051/f05-read-0051_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0431/f05-read-0431_map.wav" controls preload></audio>
-#### No. 9
+<audio src="AB-test/25min/0051/f05-read-0051_share.wav" controls preload></audio>
+#### *No. 9*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0118/f05-read-0118_share.wav" controls preload></audio>
+<audio src="AB-test/15min/0118/f05-read-0118_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0118/f05-read-0118_map.wav" controls preload></audio>
-#### No. 10
+<audio src="AB-test/15min/0118/f05-read-0118_map.wav" controls preload></audio>
+#### *No. 10*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0543/f05-read-0543_separate.wav" controls preload></audio>
+<audio src="AB-test/25min/0024/f05-read-0024_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0543/f05-read-0543_map.wav" controls preload></audio>
-#### No. 11
+<audio src="AB-test/25min/0024/f05-read-0024_share.wav" controls preload></audio>
+#### *No. 11*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0014/f05-read-0014_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0971/f05-read-0971_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0014/f05-read-0014_share.wav" controls preload></audio>
-#### No. 12
+<audio src="AB-test/15min/0971/f05-read-0971_separate.wav" controls preload></audio>
+#### *No. 12*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0428/f05-read-0428_share.wav" controls preload></audio>
+<audio src="AB-test/15min/0343/f05-read-0343_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0428/f05-read-0428_map.wav" controls preload></audio>
-#### No. 13
+<audio src="AB-test/15min/0343/f05-read-0343_map.wav" controls preload></audio>
+#### *No. 13*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0355/f05-read-0355_map.wav" controls preload></audio>
+<audio src="AB-test/25min/0154/f05-read-0154_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0355/f05-read-0355_separate.wav" controls preload></audio>
-#### No. 14
+<audio src="AB-test/25min/0154/f05-read-0154_share.wav" controls preload></audio>
+#### *No. 14*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0201/f05-read-0201_share.wav" controls preload></audio>
+<audio src="AB-test/15min/0856/f05-read-0856_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0201/f05-read-0201_separate.wav" controls preload></audio>
-#### No. 15
+<audio src="AB-test/15min/0856/f05-read-0856_share.wav" controls preload></audio>
+#### *No. 15*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0971/f05-read-0971_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0996/f05-read-0996_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0971/f05-read-0971_map.wav" controls preload></audio>
-#### No. 16
+<audio src="AB-test/15min/0996/f05-read-0996_map.wav" controls preload></audio>
+#### *No. 16*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0121/f05-read-0121_map.wav" controls preload></audio>
+<audio src="AB-test/25min/0221/f05-read-0221_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0121/f05-read-0121_share.wav" controls preload></audio>
-#### No. 17
+<audio src="AB-test/25min/0221/f05-read-0221_separate.wav" controls preload></audio>
+#### *No. 17*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0363/f05-read-0363_separate.wav" controls preload></audio>
+<audio src="AB-test/25min/0203/f05-read-0203_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0363/f05-read-0363_map.wav" controls preload></audio>
-#### No. 18
+<audio src="AB-test/25min/0203/f05-read-0203_share.wav" controls preload></audio>
+#### *No. 18*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0221/f05-read-0221_map.wav" controls preload></audio>
+<audio src="AB-test/25min/0363/f05-read-0363_separate.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0221/f05-read-0221_separate.wav" controls preload></audio>
-#### No. 19
+<audio src="AB-test/25min/0363/f05-read-0363_map.wav" controls preload></audio>
+#### *No. 19*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0156/f05-read-0156_share.wav" controls preload></audio>
+<audio src="AB-test/25min/0079/f05-read-0079_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0156/f05-read-0156_separate.wav" controls preload></audio>
-#### No. 20
+<audio src="AB-test/25min/0079/f05-read-0079_share.wav" controls preload></audio>
+#### *No. 20*
 ##### A audio
-<audio src="CL-2/AB-test/15min/0996/f05-read-0996_separate.wav" controls preload></audio>
+<audio src="AB-test/15min/0014/f05-read-0014_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/15min/0996/f05-read-0996_map.wav" controls preload></audio>
-#### No. 21
+<audio src="AB-test/15min/0014/f05-read-0014_separate.wav" controls preload></audio>
+#### *No. 21*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0079/f05-read-0079_map.wav" controls preload></audio>
+<audio src="AB-test/15min/0096/f05-read-0096_share.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0079/f05-read-0079_share.wav" controls preload></audio>
-#### No. 22
+<audio src="AB-test/15min/0096/f05-read-0096_separate.wav" controls preload></audio>
+#### *No. 22*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0024/f05-read-0024_share.wav" controls preload></audio>
+<audio src="AB-test/15min/0285/f05-read-0285_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0024/f05-read-0024_separate.wav" controls preload></audio>
-#### No. 23
+<audio src="AB-test/15min/0285/f05-read-0285_separate.wav" controls preload></audio>
+#### *No. 23*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0203/f05-read-0203_map.wav" controls preload></audio>
+<audio src="AB-test/25min/0428/f05-read-0428_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0203/f05-read-0203_share.wav" controls preload></audio>
-#### No. 24
+<audio src="AB-test/25min/0428/f05-read-0428_share.wav" controls preload></audio>
+#### *No. 24*
 ##### A audio
-<audio src="CL-2/AB-test/25min/0154/f05-read-0154_separate.wav" controls preload></audio>
+<audio src="AB-test/25min/0355/f05-read-0355_map.wav" controls preload></audio>
 ##### B audio
-<audio src="CL-2/AB-test/25min/0154/f05-read-0154_share.wav" controls preload></audio>
+<audio src="AB-test/25min/0355/f05-read-0355_separate.wav" controls preload></audio>
