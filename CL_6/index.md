@@ -19,183 +19,168 @@ layout: default
 
 - - -
 
-#### 當然還有我每次看到都不免讚嘆的筆跡
-#### *No. 1-1*
-<audio src="map/f05-read-0984_map.wav" controls preload></audio>
-#### *No. 1-2*
-<audio src="gt/f05-read-0984_gt.wav" controls preload></audio>
-#### *No. 1-3*
-<audio src="scratch/f05-read-0984_scratch.wav" controls preload></audio>
-#### *No. 1-4*
-<audio src="share/f05-read-0984_share.wav" controls preload></audio>
-#### *No. 1-5*
-<audio src="separate/f05-read-0984_separate.wav" controls preload></audio>
-- - -
-#### 已經可以準備過下個紀念日
-#### *No. 2-1*
-<audio src="gt/f05-read-0515_gt.wav" controls preload></audio>
-#### *No. 2-2*
-<audio src="share/f05-read-0515_share.wav" controls preload></audio>
-#### *No. 2-3*
-<audio src="map/f05-read-0515_map.wav" controls preload></audio>
-#### *No. 2-4*
-<audio src="separate/f05-read-0515_separate.wav" controls preload></audio>
-#### *No. 2-5*
-<audio src="scratch/f05-read-0515_scratch.wav" controls preload></audio>
-- - -
-#### 大概再不會有勇氣告訴你
-#### *No. 3-1*
-<audio src="separate/f05-read-0417_separate.wav" controls preload></audio>
-#### *No. 3-2*
-<audio src="share/f05-read-0417_share.wav" controls preload></audio>
-#### *No. 3-3*
-<audio src="map/f05-read-0417_map.wav" controls preload></audio>
-#### *No. 3-4*
-<audio src="gt/f05-read-0417_gt.wav" controls preload></audio>
-#### *No. 3-5*
-<audio src="scratch/f05-read-0417_scratch.wav" controls preload></audio>
-- - -
-#### 我可能得搭計程車過去了
-#### *No. 4-1*
-<audio src="share/f05-read-0302_share.wav" controls preload></audio>
-#### *No. 4-2*
-<audio src="map/f05-read-0302_map.wav" controls preload></audio>
-#### *No. 4-3*
-<audio src="scratch/f05-read-0302_scratch.wav" controls preload></audio>
-#### *No. 4-4*
-<audio src="separate/f05-read-0302_separate.wav" controls preload></audio>
-#### *No. 4-5*
-<audio src="gt/f05-read-0302_gt.wav" controls preload></audio>
-- - -
-#### 時間感太差了
-#### *No. 5-1*
-<audio src="separate/f05-read-0518_separate.wav" controls preload></audio>
-#### *No. 5-2*
-<audio src="map/f05-read-0518_map.wav" controls preload></audio>
-#### *No. 5-3*
-<audio src="scratch/f05-read-0518_scratch.wav" controls preload></audio>
-#### *No. 5-4*
-<audio src="gt/f05-read-0518_gt.wav" controls preload></audio>
-#### *No. 5-5*
-<audio src="share/f05-read-0518_share.wav" controls preload></audio>
-- - -
-#### 當下沒看到
-#### *No. 6-1*
-<audio src="share/f05-read-0804_share.wav" controls preload></audio>
-#### *No. 6-2*
-<audio src="scratch/f05-read-0804_scratch.wav" controls preload></audio>
-#### *No. 6-3*
-<audio src="separate/f05-read-0804_separate.wav" controls preload></audio>
-#### *No. 6-4*
-<audio src="map/f05-read-0804_map.wav" controls preload></audio>
-#### *No. 6-5*
-<audio src="gt/f05-read-0804_gt.wav" controls preload></audio>
-- - -
-#### 想在這樣的楓紅裡野餐
-#### *No. 7-1*
-<audio src="scratch/f05-read-0203_scratch.wav" controls preload></audio>
-#### *No. 7-2*
-<audio src="separate/f05-read-0203_separate.wav" controls preload></audio>
-#### *No. 7-3*
-<audio src="map/f05-read-0203_map.wav" controls preload></audio>
-#### *No. 7-4*
+#### *No. 1-1: 想在這樣的楓紅裡野餐*
 <audio src="gt/f05-read-0203_gt.wav" controls preload></audio>
-#### *No. 7-5*
+#### *No. 1-2: 想在這樣的楓紅裡野餐*
+<audio src="separate/f05-read-0203_separate.wav" controls preload></audio>
+#### *No. 1-3: 想在這樣的楓紅裡野餐*
 <audio src="share/f05-read-0203_share.wav" controls preload></audio>
+#### *No. 1-4: 想在這樣的楓紅裡野餐*
+<audio src="map/f05-read-0203_map.wav" controls preload></audio>
+#### *No. 1-5: 想在這樣的楓紅裡野餐*
+<audio src="scratch/f05-read-0203_scratch.wav" controls preload></audio>
 - - -
-#### 要我們研究不如撞牆算了
-#### *No. 8-1*
-<audio src="map/f05-read-0270_map.wav" controls preload></audio>
-#### *No. 8-2*
-<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
-#### *No. 8-3*
-<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
-#### *No. 8-4*
-<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
-#### *No. 8-5*
-<audio src="share/f05-read-0270_share.wav" controls preload></audio>
-- - -
-#### 倒是很多人在想你嘛這位先生
-#### *No. 9-1*
-<audio src="map/f05-read-0231_map.wav" controls preload></audio>
-#### *No. 9-2*
-<audio src="scratch/f05-read-0231_scratch.wav" controls preload></audio>
-#### *No. 9-3*
+#### *No. 2-1: 倒是很多人在想你嘛這位先生*
 <audio src="gt/f05-read-0231_gt.wav" controls preload></audio>
-#### *No. 9-4*
+#### *No. 2-2: 倒是很多人在想你嘛這位先生*
+<audio src="scratch/f05-read-0231_scratch.wav" controls preload></audio>
+#### *No. 2-3: 倒是很多人在想你嘛這位先生*
+<audio src="map/f05-read-0231_map.wav" controls preload></audio>
+#### *No. 2-4: 倒是很多人在想你嘛這位先生*
 <audio src="separate/f05-read-0231_separate.wav" controls preload></audio>
-#### *No. 9-5*
+#### *No. 2-5: 倒是很多人在想你嘛這位先生*
 <audio src="share/f05-read-0231_share.wav" controls preload></audio>
 - - -
-#### 我一定會用力地笑你
-#### *No. 10-1*
-<audio src="separate/f05-read-0249_separate.wav" controls preload></audio>
-#### *No. 10-2*
-<audio src="map/f05-read-0249_map.wav" controls preload></audio>
-#### *No. 10-3*
-<audio src="share/f05-read-0249_share.wav" controls preload></audio>
-#### *No. 10-4*
-<audio src="scratch/f05-read-0249_scratch.wav" controls preload></audio>
-#### *No. 10-5*
-<audio src="gt/f05-read-0249_gt.wav" controls preload></audio>
+#### *No. 3-1: 時間感太差了*
+<audio src="map/f05-read-0518_map.wav" controls preload></audio>
+#### *No. 3-2: 時間感太差了*
+<audio src="scratch/f05-read-0518_scratch.wav" controls preload></audio>
+#### *No. 3-3: 時間感太差了*
+<audio src="gt/f05-read-0518_gt.wav" controls preload></audio>
+#### *No. 3-4: 時間感太差了*
+<audio src="separate/f05-read-0518_separate.wav" controls preload></audio>
+#### *No. 3-5: 時間感太差了*
+<audio src="share/f05-read-0518_share.wav" controls preload></audio>
 - - -
-#### 要我們研究不如撞牆算了
-#### *No. 11-1*
-<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
-#### *No. 11-2*
-<audio src="share/f05-read-0270_share.wav" controls preload></audio>
-#### *No. 11-3*
-<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
-#### *No. 11-4*
-<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
-#### *No. 11-5*
-<audio src="map/f05-read-0270_map.wav" controls preload></audio>
+#### *No. 4-1: 我可能得搭計程車過去了*
+<audio src="scratch/f05-read-0302_scratch.wav" controls preload></audio>
+#### *No. 4-2: 我可能得搭計程車過去了*
+<audio src="share/f05-read-0302_share.wav" controls preload></audio>
+#### *No. 4-3: 我可能得搭計程車過去了*
+<audio src="separate/f05-read-0302_separate.wav" controls preload></audio>
+#### *No. 4-4: 我可能得搭計程車過去了*
+<audio src="gt/f05-read-0302_gt.wav" controls preload></audio>
+#### *No. 4-5: 我可能得搭計程車過去了*
+<audio src="map/f05-read-0302_map.wav" controls preload></audio>
 - - -
-#### 為什麼大頭照不見了
-#### *No. 12-1*
-<audio src="separate/f05-read-0745_separate.wav" controls preload></audio>
-#### *No. 12-2*
-<audio src="scratch/f05-read-0745_scratch.wav" controls preload></audio>
-#### *No. 12-3*
-<audio src="map/f05-read-0745_map.wav" controls preload></audio>
-#### *No. 12-4*
-<audio src="share/f05-read-0745_share.wav" controls preload></audio>
-#### *No. 12-5*
-<audio src="gt/f05-read-0745_gt.wav" controls preload></audio>
-- - -
-#### 看了幾雙鞋子
-#### *No. 13-1*
-<audio src="share/f05-read-0692_share.wav" controls preload></audio>
-#### *No. 13-2*
-<audio src="gt/f05-read-0692_gt.wav" controls preload></audio>
-#### *No. 13-3*
-<audio src="map/f05-read-0692_map.wav" controls preload></audio>
-#### *No. 13-4*
-<audio src="separate/f05-read-0692_separate.wav" controls preload></audio>
-#### *No. 13-5*
-<audio src="scratch/f05-read-0692_scratch.wav" controls preload></audio>
-- - -
-#### 我心裡那個聰明甜美的女孩兒也大學了呢
-#### *No. 14-1*
+#### *No. 5-1: 我心裡那個聰明甜美的女孩兒也大學了呢*
 <audio src="map/f05-read-0121_map.wav" controls preload></audio>
-#### *No. 14-2*
+#### *No. 5-2: 我心裡那個聰明甜美的女孩兒也大學了呢*
 <audio src="separate/f05-read-0121_separate.wav" controls preload></audio>
-#### *No. 14-3*
+#### *No. 5-3: 我心裡那個聰明甜美的女孩兒也大學了呢*
 <audio src="scratch/f05-read-0121_scratch.wav" controls preload></audio>
-#### *No. 14-4*
+#### *No. 5-4: 我心裡那個聰明甜美的女孩兒也大學了呢*
 <audio src="gt/f05-read-0121_gt.wav" controls preload></audio>
-#### *No. 14-5*
+#### *No. 5-5: 我心裡那個聰明甜美的女孩兒也大學了呢*
 <audio src="share/f05-read-0121_share.wav" controls preload></audio>
 - - -
-#### 下次動點腦好嗎
-#### *No. 15-1*
-<audio src="scratch/f05-read-0191_scratch.wav" controls preload></audio>
-#### *No. 15-2*
+#### *No. 6-1: 當然還有我每次看到都不免讚嘆的筆跡*
+<audio src="share/f05-read-0984_share.wav" controls preload></audio>
+#### *No. 6-2: 當然還有我每次看到都不免讚嘆的筆跡*
+<audio src="gt/f05-read-0984_gt.wav" controls preload></audio>
+#### *No. 6-3: 當然還有我每次看到都不免讚嘆的筆跡*
+<audio src="map/f05-read-0984_map.wav" controls preload></audio>
+#### *No. 6-4: 當然還有我每次看到都不免讚嘆的筆跡*
+<audio src="separate/f05-read-0984_separate.wav" controls preload></audio>
+#### *No. 6-5: 當然還有我每次看到都不免讚嘆的筆跡*
+<audio src="scratch/f05-read-0984_scratch.wav" controls preload></audio>
+- - -
+#### *No. 7-1: 要我們研究不如撞牆算了*
+<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
+#### *No. 7-2: 要我們研究不如撞牆算了*
+<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
+#### *No. 7-3: 要我們研究不如撞牆算了*
+<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
+#### *No. 7-4: 要我們研究不如撞牆算了*
+<audio src="map/f05-read-0270_map.wav" controls preload></audio>
+#### *No. 7-5: 要我們研究不如撞牆算了*
+<audio src="share/f05-read-0270_share.wav" controls preload></audio>
+- - -
+#### *No. 8-1: 當下沒看到*
+<audio src="share/f05-read-0804_share.wav" controls preload></audio>
+#### *No. 8-2: 當下沒看到*
+<audio src="gt/f05-read-0804_gt.wav" controls preload></audio>
+#### *No. 8-3: 當下沒看到*
+<audio src="scratch/f05-read-0804_scratch.wav" controls preload></audio>
+#### *No. 8-4: 當下沒看到*
+<audio src="separate/f05-read-0804_separate.wav" controls preload></audio>
+#### *No. 8-5: 當下沒看到*
+<audio src="map/f05-read-0804_map.wav" controls preload></audio>
+- - -
+#### *No. 9-1: 看了幾雙鞋子*
+<audio src="separate/f05-read-0692_separate.wav" controls preload></audio>
+#### *No. 9-2: 看了幾雙鞋子*
+<audio src="gt/f05-read-0692_gt.wav" controls preload></audio>
+#### *No. 9-3: 看了幾雙鞋子*
+<audio src="scratch/f05-read-0692_scratch.wav" controls preload></audio>
+#### *No. 9-4: 看了幾雙鞋子*
+<audio src="share/f05-read-0692_share.wav" controls preload></audio>
+#### *No. 9-5: 看了幾雙鞋子*
+<audio src="map/f05-read-0692_map.wav" controls preload></audio>
+- - -
+#### *No. 10-1: 我一定會用力地笑你*
+<audio src="map/f05-read-0249_map.wav" controls preload></audio>
+#### *No. 10-2: 我一定會用力地笑你*
+<audio src="gt/f05-read-0249_gt.wav" controls preload></audio>
+#### *No. 10-3: 我一定會用力地笑你*
+<audio src="scratch/f05-read-0249_scratch.wav" controls preload></audio>
+#### *No. 10-4: 我一定會用力地笑你*
+<audio src="separate/f05-read-0249_separate.wav" controls preload></audio>
+#### *No. 10-5: 我一定會用力地笑你*
+<audio src="share/f05-read-0249_share.wav" controls preload></audio>
+- - -
+#### *No. 11-1: 為什麼大頭照不見了*
+<audio src="gt/f05-read-0745_gt.wav" controls preload></audio>
+#### *No. 11-2: 為什麼大頭照不見了*
+<audio src="scratch/f05-read-0745_scratch.wav" controls preload></audio>
+#### *No. 11-3: 為什麼大頭照不見了*
+<audio src="map/f05-read-0745_map.wav" controls preload></audio>
+#### *No. 11-4: 為什麼大頭照不見了*
+<audio src="separate/f05-read-0745_separate.wav" controls preload></audio>
+#### *No. 11-5: 為什麼大頭照不見了*
+<audio src="share/f05-read-0745_share.wav" controls preload></audio>
+- - -
+#### *No. 12-1: 已經可以準備過下個紀念日*
+<audio src="scratch/f05-read-0515_scratch.wav" controls preload></audio>
+#### *No. 12-2: 已經可以準備過下個紀念日*
+<audio src="map/f05-read-0515_map.wav" controls preload></audio>
+#### *No. 12-3: 已經可以準備過下個紀念日*
+<audio src="separate/f05-read-0515_separate.wav" controls preload></audio>
+#### *No. 12-4: 已經可以準備過下個紀念日*
+<audio src="share/f05-read-0515_share.wav" controls preload></audio>
+#### *No. 12-5: 已經可以準備過下個紀念日*
+<audio src="gt/f05-read-0515_gt.wav" controls preload></audio>
+- - -
+#### *No. 13-1: 下次動點腦好嗎*
 <audio src="map/f05-read-0191_map.wav" controls preload></audio>
-#### *No. 15-3*
-<audio src="gt/f05-read-0191_gt.wav" controls preload></audio>
-#### *No. 15-4*
-<audio src="separate/f05-read-0191_separate.wav" controls preload></audio>
-#### *No. 15-5*
+#### *No. 13-2: 下次動點腦好嗎*
 <audio src="share/f05-read-0191_share.wav" controls preload></audio>
+#### *No. 13-3: 下次動點腦好嗎*
+<audio src="gt/f05-read-0191_gt.wav" controls preload></audio>
+#### *No. 13-4: 下次動點腦好嗎*
+<audio src="scratch/f05-read-0191_scratch.wav" controls preload></audio>
+#### *No. 13-5: 下次動點腦好嗎*
+<audio src="separate/f05-read-0191_separate.wav" controls preload></audio>
+- - -
+#### *No. 14-1: 要我們研究不如撞牆算了*
+<audio src="share/f05-read-0270_share.wav" controls preload></audio>
+#### *No. 14-2: 要我們研究不如撞牆算了*
+<audio src="map/f05-read-0270_map.wav" controls preload></audio>
+#### *No. 14-3: 要我們研究不如撞牆算了*
+<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
+#### *No. 14-4: 要我們研究不如撞牆算了*
+<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
+#### *No. 14-5: 要我們研究不如撞牆算了*
+<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
+- - -
+#### *No. 15-1: 大概再不會有勇氣告訴你*
+<audio src="map/f05-read-0417_map.wav" controls preload></audio>
+#### *No. 15-2: 大概再不會有勇氣告訴你*
+<audio src="scratch/f05-read-0417_scratch.wav" controls preload></audio>
+#### *No. 15-3: 大概再不會有勇氣告訴你*
+<audio src="separate/f05-read-0417_separate.wav" controls preload></audio>
+#### *No. 15-4: 大概再不會有勇氣告訴你*
+<audio src="share/f05-read-0417_share.wav" controls preload></audio>
+#### *No. 15-5: 大概再不會有勇氣告訴你*
+<audio src="gt/f05-read-0417_gt.wav" controls preload></audio>
 - - -
