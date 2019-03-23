@@ -2,9 +2,12 @@
 layout: default
 ---
 # Part 1 
-#### 這部份將會有50個音檔
-#### 每一個的內容都有其對應的文字, 請仔細聽完每一個
-#### 並根據 "是否自然流暢地念出對應的文字" 給予評分
+#### 這部份將會有10組各5個音檔
+#### 每一組的內容都有其對應的文字
+#### 請使用"耳機"並仔細聽完
+#### 並根據:
+#### Q1: "是否自然流暢" 
+#### Q2: "語音是否與「對應」文字相符且沒有多餘的話語" 評分
 #### 評分標準如下
 * 5: Excellent (非常好)
 * 4: Good (好)
@@ -13,105 +16,186 @@ layout: default
 * 1: Bad （非常不好）
 
 
+
 - - -
 
-#### *No. 1: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/gt/f05-read-0035_gt.wav" controls preload></audio>
-#### *No. 2: 哪裡可以吃到好吃的粽子*
-<audio src="MOS_15min/separate/f05-read-0546_separate.wav" controls preload></audio>
-#### *No. 3: 寄信給教授要問專題的事情*
-<audio src="MOS_25min/scratch/f05-read-0069_scratch.wav" controls preload></audio>
-#### *No. 4: 大概再不會有勇氣告訴你*
-<audio src="MOS_25min/scratch/f05-read-0417_scratch.wav" controls preload></audio>
-#### *No. 5: 當下沒看到*
-<audio src="MOS_25min/map/f05-read-0804_map.wav" controls preload></audio>
-#### *No. 6: 感謝四年來的照顧*
-<audio src="MOS_15min/scratch/f05-read-0633_scratch.wav" controls preload></audio>
-#### *No. 7: 大概再不會有勇氣告訴你*
-<audio src="MOS_25min/map/f05-read-0417_map.wav" controls preload></audio>
-#### *No. 8: 都可以毫無顧忌地拿起手機撥出的號碼*
-<audio src="MOS_25min/share/f05-read-0154_share.wav" controls preload></audio>
-#### *No. 9: 感謝四年來的照顧*
-<audio src="MOS_15min/share/f05-read-0633_share.wav" controls preload></audio>
-#### *No. 10: 今夜還沒結束就深知自己得花點時間*
-<audio src="MOS_15min/scratch/f05-read-0597_scratch.wav" controls preload></audio>
-#### *No. 11: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/map/f05-read-0035_map.wav" controls preload></audio>
-#### *No. 12: 寄信給教授要問專題的事情*
-<audio src="MOS_25min/map/f05-read-0069_map.wav" controls preload></audio>
-#### *No. 13: 都可以毫無顧忌地拿起手機撥出的號碼*
-<audio src="MOS_25min/separate/f05-read-0154_separate.wav" controls preload></audio>
-#### *No. 14: 看了幾雙鞋子*
-<audio src="MOS_15min/map/f05-read-0692_map.wav" controls preload></audio>
-#### *No. 15: 當下沒看到*
-<audio src="MOS_25min/gt/f05-read-0804_gt.wav" controls preload></audio>
-#### *No. 16: 今夜還沒結束就深知自己得花點時間*
-<audio src="MOS_15min/separate/f05-read-0597_separate.wav" controls preload></audio>
-#### *No. 17: 都可以毫無顧忌地拿起手機撥出的號碼*
-<audio src="MOS_25min/map/f05-read-0154_map.wav" controls preload></audio>
-#### *No. 18: 感謝四年來的照顧*
-<audio src="MOS_15min/separate/f05-read-0633_separate.wav" controls preload></audio>
-#### *No. 19: 今夜還沒結束就深知自己得花點時間*
-<audio src="MOS_15min/map/f05-read-0597_map.wav" controls preload></audio>
-#### *No. 20: 當下沒看到*
-<audio src="MOS_25min/scratch/f05-read-0804_scratch.wav" controls preload></audio>
-#### *No. 21: 寄信給教授要問專題的事情*
-<audio src="MOS_25min/gt/f05-read-0069_gt.wav" controls preload></audio>
-#### *No. 22: 感謝四年來的照顧*
-<audio src="MOS_15min/gt/f05-read-0633_gt.wav" controls preload></audio>
-#### *No. 23: 短髮真的很好看我都要害羞了*
-<audio src="MOS_15min/separate/f05-read-0555_separate.wav" controls preload></audio>
-#### *No. 24: 短髮真的很好看我都要害羞了*
-<audio src="MOS_15min/share/f05-read-0555_share.wav" controls preload></audio>
-#### *No. 25: 哪裡可以吃到好吃的粽子*
-<audio src="MOS_15min/map/f05-read-0546_map.wav" controls preload></audio>
-#### *No. 26: 寄信給教授要問專題的事情*
-<audio src="MOS_25min/share/f05-read-0069_share.wav" controls preload></audio>
-#### *No. 27: 看了幾雙鞋子*
-<audio src="MOS_15min/share/f05-read-0692_share.wav" controls preload></audio>
-#### *No. 28: 都可以毫無顧忌地拿起手機撥出的號碼*
-<audio src="MOS_25min/scratch/f05-read-0154_scratch.wav" controls preload></audio>
-#### *No. 29: 哪裡可以吃到好吃的粽子*
-<audio src="MOS_15min/scratch/f05-read-0546_scratch.wav" controls preload></audio>
-#### *No. 30: 當下沒看到*
-<audio src="MOS_25min/share/f05-read-0804_share.wav" controls preload></audio>
-#### *No. 31: 短髮真的很好看我都要害羞了*
-<audio src="MOS_15min/gt/f05-read-0555_gt.wav" controls preload></audio>
-#### *No. 32: 看了幾雙鞋子*
-<audio src="MOS_15min/separate/f05-read-0692_separate.wav" controls preload></audio>
-#### *No. 33: 哪裡可以吃到好吃的粽子*
-<audio src="MOS_15min/share/f05-read-0546_share.wav" controls preload></audio>
-#### *No. 34: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/separate/f05-read-0035_separate.wav" controls preload></audio>
-#### *No. 35: 感謝四年來的照顧*
-<audio src="MOS_15min/map/f05-read-0633_map.wav" controls preload></audio>
-#### *No. 36: 看了幾雙鞋子*
-<audio src="MOS_15min/gt/f05-read-0692_gt.wav" controls preload></audio>
-#### *No. 37: 都可以毫無顧忌地拿起手機撥出的號碼*
-<audio src="MOS_25min/gt/f05-read-0154_gt.wav" controls preload></audio>
-#### *No. 38: 短髮真的很好看我都要害羞了*
-<audio src="MOS_15min/scratch/f05-read-0555_scratch.wav" controls preload></audio>
-#### *No. 39: 大概再不會有勇氣告訴你*
-<audio src="MOS_25min/separate/f05-read-0417_separate.wav" controls preload></audio>
-#### *No. 40: 當下沒看到*
-<audio src="MOS_25min/separate/f05-read-0804_separate.wav" controls preload></audio>
-#### *No. 41: 寄信給教授要問專題的事情*
-<audio src="MOS_25min/separate/f05-read-0069_separate.wav" controls preload></audio>
-#### *No. 42: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/share/f05-read-0035_share.wav" controls preload></audio>
-#### *No. 43: 看了幾雙鞋子*
-<audio src="MOS_15min/scratch/f05-read-0692_scratch.wav" controls preload></audio>
-#### *No. 44: 今夜還沒結束就深知自己得花點時間*
-<audio src="MOS_15min/share/f05-read-0597_share.wav" controls preload></audio>
-#### *No. 45: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/scratch/f05-read-0035_scratch.wav" controls preload></audio>
-#### *No. 46: 哪裡可以吃到好吃的粽子*
-<audio src="MOS_15min/gt/f05-read-0546_gt.wav" controls preload></audio>
-#### *No. 47: 大概再不會有勇氣告訴你*
-<audio src="MOS_25min/share/f05-read-0417_share.wav" controls preload></audio>
-#### *No. 48: 今夜還沒結束就深知自己得花點時間*
-<audio src="MOS_15min/gt/f05-read-0597_gt.wav" controls preload></audio>
-#### *No. 49: 大概再不會有勇氣告訴你*
-<audio src="MOS_25min/gt/f05-read-0417_gt.wav" controls preload></audio>
-#### *No. 50: 短髮真的很好看我都要害羞了*
-<audio src="MOS_15min/map/f05-read-0555_map.wav" controls preload></audio>
+#### 我可能得搭計程車過去了
+#### *No. 1-1*
+<audio src="gt/f05-read-0302_gt.wav" controls preload></audio>
+#### *No. 1-2*
+<audio src="separate/f05-read-0302_separate.wav" controls preload></audio>
+#### *No. 1-3*
+<audio src="map/f05-read-0302_map.wav" controls preload></audio>
+#### *No. 1-4*
+<audio src="scratch/f05-read-0302_scratch.wav" controls preload></audio>
+#### *No. 1-5*
+<audio src="share/f05-read-0302_share.wav" controls preload></audio>
+- - -
+#### 看了幾雙鞋子
+#### *No. 2-1*
+<audio src="share/f05-read-0692_share.wav" controls preload></audio>
+#### *No. 2-2*
+<audio src="map/f05-read-0692_map.wav" controls preload></audio>
+#### *No. 2-3*
+<audio src="separate/f05-read-0692_separate.wav" controls preload></audio>
+#### *No. 2-4*
+<audio src="scratch/f05-read-0692_scratch.wav" controls preload></audio>
+#### *No. 2-5*
+<audio src="gt/f05-read-0692_gt.wav" controls preload></audio>
+- - -
+#### 倒是很多人在想你嘛這位先生
+#### *No. 3-1*
+<audio src="scratch/f05-read-0231_scratch.wav" controls preload></audio>
+#### *No. 3-2*
+<audio src="gt/f05-read-0231_gt.wav" controls preload></audio>
+#### *No. 3-3*
+<audio src="share/f05-read-0231_share.wav" controls preload></audio>
+#### *No. 3-4*
+<audio src="separate/f05-read-0231_separate.wav" controls preload></audio>
+#### *No. 3-5*
+<audio src="map/f05-read-0231_map.wav" controls preload></audio>
+- - -
+#### 當然還有我每次看到都不免讚嘆的筆跡
+#### *No. 4-1*
+<audio src="separate/f05-read-0984_separate.wav" controls preload></audio>
+#### *No. 4-2*
+<audio src="map/f05-read-0984_map.wav" controls preload></audio>
+#### *No. 4-3*
+<audio src="share/f05-read-0984_share.wav" controls preload></audio>
+#### *No. 4-4*
+<audio src="gt/f05-read-0984_gt.wav" controls preload></audio>
+#### *No. 4-5*
+<audio src="scratch/f05-read-0984_scratch.wav" controls preload></audio>
+- - -
+#### 為什麼大頭照不見了
+#### *No. 5-1*
+<audio src="scratch/f05-read-0745_scratch.wav" controls preload></audio>
+#### *No. 5-2*
+<audio src="separate/f05-read-0745_separate.wav" controls preload></audio>
+#### *No. 5-3*
+<audio src="map/f05-read-0745_map.wav" controls preload></audio>
+#### *No. 5-4*
+<audio src="share/f05-read-0745_share.wav" controls preload></audio>
+#### *No. 5-5*
+<audio src="gt/f05-read-0745_gt.wav" controls preload></audio>
+- - -
+#### 我一定會用力地笑你
+#### *No. 6-1*
+<audio src="separate/f05-read-0249_separate.wav" controls preload></audio>
+#### *No. 6-2*
+<audio src="share/f05-read-0249_share.wav" controls preload></audio>
+#### *No. 6-3*
+<audio src="map/f05-read-0249_map.wav" controls preload></audio>
+#### *No. 6-4*
+<audio src="gt/f05-read-0249_gt.wav" controls preload></audio>
+#### *No. 6-5*
+<audio src="scratch/f05-read-0249_scratch.wav" controls preload></audio>
+- - -
+#### 下次動點腦好嗎
+#### *No. 7-1*
+<audio src="gt/f05-read-0191_gt.wav" controls preload></audio>
+#### *No. 7-2*
+<audio src="separate/f05-read-0191_separate.wav" controls preload></audio>
+#### *No. 7-3*
+<audio src="share/f05-read-0191_share.wav" controls preload></audio>
+#### *No. 7-4*
+<audio src="map/f05-read-0191_map.wav" controls preload></audio>
+#### *No. 7-5*
+<audio src="scratch/f05-read-0191_scratch.wav" controls preload></audio>
+- - -
+#### 時間感太差了
+#### *No. 8-1*
+<audio src="map/f05-read-0518_map.wav" controls preload></audio>
+#### *No. 8-2*
+<audio src="gt/f05-read-0518_gt.wav" controls preload></audio>
+#### *No. 8-3*
+<audio src="scratch/f05-read-0518_scratch.wav" controls preload></audio>
+#### *No. 8-4*
+<audio src="share/f05-read-0518_share.wav" controls preload></audio>
+#### *No. 8-5*
+<audio src="separate/f05-read-0518_separate.wav" controls preload></audio>
+- - -
+#### 已經可以準備過下個紀念日
+#### *No. 9-1*
+<audio src="share/f05-read-0515_share.wav" controls preload></audio>
+#### *No. 9-2*
+<audio src="gt/f05-read-0515_gt.wav" controls preload></audio>
+#### *No. 9-3*
+<audio src="map/f05-read-0515_map.wav" controls preload></audio>
+#### *No. 9-4*
+<audio src="separate/f05-read-0515_separate.wav" controls preload></audio>
+#### *No. 9-5*
+<audio src="scratch/f05-read-0515_scratch.wav" controls preload></audio>
+- - -
+#### 我心裡那個聰明甜美的女孩兒也大學了呢
+#### *No. 10-1*
+<audio src="separate/f05-read-0121_separate.wav" controls preload></audio>
+#### *No. 10-2*
+<audio src="share/f05-read-0121_share.wav" controls preload></audio>
+#### *No. 10-3*
+<audio src="gt/f05-read-0121_gt.wav" controls preload></audio>
+#### *No. 10-4*
+<audio src="scratch/f05-read-0121_scratch.wav" controls preload></audio>
+#### *No. 10-5*
+<audio src="map/f05-read-0121_map.wav" controls preload></audio>
+- - -
+#### 想在這樣的楓紅裡野餐
+#### *No. 11-1*
+<audio src="map/f05-read-0203_map.wav" controls preload></audio>
+#### *No. 11-2*
+<audio src="share/f05-read-0203_share.wav" controls preload></audio>
+#### *No. 11-3*
+<audio src="scratch/f05-read-0203_scratch.wav" controls preload></audio>
+#### *No. 11-4*
+<audio src="gt/f05-read-0203_gt.wav" controls preload></audio>
+#### *No. 11-5*
+<audio src="separate/f05-read-0203_separate.wav" controls preload></audio>
+- - -
+#### 要我們研究不如撞牆算了
+#### *No. 12-1*
+<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
+#### *No. 12-2*
+<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
+#### *No. 12-3*
+<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
+#### *No. 12-4*
+<audio src="map/f05-read-0270_map.wav" controls preload></audio>
+#### *No. 12-5*
+<audio src="share/f05-read-0270_share.wav" controls preload></audio>
+- - -
+#### 要我們研究不如撞牆算了
+#### *No. 13-1*
+<audio src="scratch/f05-read-0270_scratch.wav" controls preload></audio>
+#### *No. 13-2*
+<audio src="map/f05-read-0270_map.wav" controls preload></audio>
+#### *No. 13-3*
+<audio src="gt/f05-read-0270_gt.wav" controls preload></audio>
+#### *No. 13-4*
+<audio src="separate/f05-read-0270_separate.wav" controls preload></audio>
+#### *No. 13-5*
+<audio src="share/f05-read-0270_share.wav" controls preload></audio>
+- - -
+#### 當下沒看到
+#### *No. 14-1*
+<audio src="share/f05-read-0804_share.wav" controls preload></audio>
+#### *No. 14-2*
+<audio src="separate/f05-read-0804_separate.wav" controls preload></audio>
+#### *No. 14-3*
+<audio src="map/f05-read-0804_map.wav" controls preload></audio>
+#### *No. 14-4*
+<audio src="gt/f05-read-0804_gt.wav" controls preload></audio>
+#### *No. 14-5*
+<audio src="scratch/f05-read-0804_scratch.wav" controls preload></audio>
+- - -
+#### 大概再不會有勇氣告訴你
+#### *No. 15-1*
+<audio src="map/f05-read-0417_map.wav" controls preload></audio>
+#### *No. 15-2*
+<audio src="gt/f05-read-0417_gt.wav" controls preload></audio>
+#### *No. 15-3*
+<audio src="separate/f05-read-0417_separate.wav" controls preload></audio>
+#### *No. 15-4*
+<audio src="share/f05-read-0417_share.wav" controls preload></audio>
+#### *No. 15-5*
+<audio src="scratch/f05-read-0417_scratch.wav" controls preload></audio>
+- - -

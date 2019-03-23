@@ -19,7 +19,7 @@ part1_explain = Path("template1.md").read_text().splitlines() + nl + [bold_line+
 #part2_explain = Path("template2.md").read_text().splitlines() + nl + bold_line
 #separate_line = nl*2 + bold_line  + nl*2
 #define formats
-no_format = "#### *No. {}: {}*"
+no_format = "#### *No. {}-{}*"
 AB_format = "#### {} audio : {}"
 txt_format = "#### {}"
 audio_format = "<audio src=\"{}\" controls preload></audio>"
@@ -29,15 +29,21 @@ if __name__ == "__main__" :
     for survey in Path('.').glob("CL*"):
         print("Preprocessing {}".format(survey))
         part1_out = []
-        audio_list = [audio for audio in Path(survey).rglob('*.wav')]
-        random.shuffle(audio_list)
-        for i, name in enumerate(audio_list):
+        name_list = [audio for audio in Path(survey).rglob('MOS*/share/*.wav')]
+        random.shuffle(name_list)
+        for pid, name in enumerate(name_list):
+            parent = '/'.join(name.parts[:-2])
             num = str(name.name).split('_')[0]
             idx = num.split('-')[2]
             txt = id2text [idx]
-            part1_out.append(no_format.format(i+1, txt))
-            name = '/'.join(Path(name).parts[1:])
-            part1_out.append(audio_format.format(name))   
+            mos_audio = [audio for audio in Path(parent).rglob(num+'*')]
+            random.shuffle(mos_audio)
+            part1_out.append(txt_format.format(txt))
+            for i, file in enumerate(mos_audio):
+                part1_out.append(no_format.format(pid+1, i+1))
+                name = '/'.join(Path(file).parts[2:])
+                part1_out.append(audio_format.format(name))   
+            part1_out.append(bold_line)
         # part2_out = []
         # ab_dir = [dir_ for dir_ in Path(survey, 'AB-test').rglob('*min/*')]
         # random.shuffle(ab_dir)
