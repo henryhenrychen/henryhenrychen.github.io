@@ -19,7 +19,7 @@ part1_explain = Path("template1.md").read_text().splitlines() + nl + [bold_line+
 #part2_explain = Path("template2.md").read_text().splitlines() + nl + bold_line
 #separate_line = nl*2 + bold_line  + nl*2
 #define formats
-no_format = "#### *No. {}-{}*"
+no_format = "#### *No. {}-{}: {}*"
 AB_format = "#### {} audio : {}"
 txt_format = "#### {}"
 audio_format = "<audio src=\"{}\" controls preload></audio>"
@@ -38,10 +38,10 @@ if __name__ == "__main__" :
             txt = id2text [idx]
             mos_audio = [audio for audio in Path(parent).rglob(num+'*')]
             random.shuffle(mos_audio)
-            part1_out.append(txt_format.format(txt))
+            #part1_out.append(txt_format.format(txt))
             for i, file in enumerate(mos_audio):
-                part1_out.append(no_format.format(pid+1, i+1))
-                name = '/'.join(Path(file).parts[2:])
+                part1_out.append(no_format.format(pid+1, i+1, txt))
+                name = '/'.join(Path(file).parts[1:])
                 part1_out.append(audio_format.format(name))   
             part1_out.append(bold_line)
         # part2_out = []
