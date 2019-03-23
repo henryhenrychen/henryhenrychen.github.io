@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#### 這部份將會有9組各5個音檔
+#### 這部份將會有10組各5個音檔
 #### 每一組的內容都有其對應的文字
 #### 請使用"耳機"並仔細聽完
 #### 並根據:
@@ -18,102 +18,113 @@ layout: default
 
 - - -
 
-#### *No. 1-1: 加油加油快考完我等你*
-<audio src="MOS_15min/map/f05-read-0916_map.wav" controls preload></audio>
-#### *No. 1-2: 加油加油快考完我等你*
-<audio src="MOS_15min/share/f05-read-0916_share.wav" controls preload></audio>
-#### *No. 1-3: 加油加油快考完我等你*
-<audio src="MOS_15min/separate/f05-read-0916_separate.wav" controls preload></audio>
-#### *No. 1-4: 加油加油快考完我等你*
-<audio src="MOS_15min/scratch/f05-read-0916_scratch.wav" controls preload></audio>
-#### *No. 1-5: 加油加油快考完我等你*
-<audio src="MOS_15min/gt/f05-read-0916_gt.wav" controls preload></audio>
+#### *No. 1-1: 人家覺得你看起來很成熟嘛*
+<audio src="MOS_15min/scratch/f05-read-0627_scratch.wav" controls preload></audio>
+#### *No. 1-2: 人家覺得你看起來很成熟嘛*
+<audio src="MOS_15min/share/f05-read-0627_share.wav" controls preload></audio>
+#### *No. 1-3: 人家覺得你看起來很成熟嘛*
+<audio src="MOS_15min/separate/f05-read-0627_separate.wav" controls preload></audio>
+#### *No. 1-4: 人家覺得你看起來很成熟嘛*
+<audio src="MOS_15min/gt/f05-read-0627_gt.wav" controls preload></audio>
+#### *No. 1-5: 人家覺得你看起來很成熟嘛*
+<audio src="MOS_15min/map/f05-read-0627_map.wav" controls preload></audio>
 - - -
-#### *No. 2-1: 都幾歲了還自己燙傷*
-<audio src="MOS_15min/gt/f05-read-0054_gt.wav" controls preload></audio>
-#### *No. 2-2: 都幾歲了還自己燙傷*
-<audio src="MOS_15min/map/f05-read-0054_map.wav" controls preload></audio>
-#### *No. 2-3: 都幾歲了還自己燙傷*
-<audio src="MOS_15min/separate/f05-read-0054_separate.wav" controls preload></audio>
-#### *No. 2-4: 都幾歲了還自己燙傷*
-<audio src="MOS_15min/scratch/f05-read-0054_scratch.wav" controls preload></audio>
-#### *No. 2-5: 都幾歲了還自己燙傷*
-<audio src="MOS_15min/share/f05-read-0054_share.wav" controls preload></audio>
-- - -
-#### *No. 3-1: 還能笑得這麼開心*
-<audio src="MOS_25min/map/f05-read-0428_map.wav" controls preload></audio>
-#### *No. 3-2: 還能笑得這麼開心*
-<audio src="MOS_25min/gt/f05-read-0428_gt.wav" controls preload></audio>
-#### *No. 3-3: 還能笑得這麼開心*
-<audio src="MOS_25min/separate/f05-read-0428_separate.wav" controls preload></audio>
-#### *No. 3-4: 還能笑得這麼開心*
-<audio src="MOS_25min/share/f05-read-0428_share.wav" controls preload></audio>
-#### *No. 3-5: 還能笑得這麼開心*
-<audio src="MOS_25min/scratch/f05-read-0428_scratch.wav" controls preload></audio>
-- - -
-#### *No. 4-1: 學弟一下子就長大了*
-<audio src="MOS_25min/scratch/f05-read-0130_scratch.wav" controls preload></audio>
-#### *No. 4-2: 學弟一下子就長大了*
-<audio src="MOS_25min/map/f05-read-0130_map.wav" controls preload></audio>
-#### *No. 4-3: 學弟一下子就長大了*
-<audio src="MOS_25min/gt/f05-read-0130_gt.wav" controls preload></audio>
-#### *No. 4-4: 學弟一下子就長大了*
-<audio src="MOS_25min/share/f05-read-0130_share.wav" controls preload></audio>
-#### *No. 4-5: 學弟一下子就長大了*
-<audio src="MOS_25min/separate/f05-read-0130_separate.wav" controls preload></audio>
-- - -
-#### *No. 5-1: 現在天氣一變頭就有感覺了*
-<audio src="MOS_25min/map/f05-read-0127_map.wav" controls preload></audio>
-#### *No. 5-2: 現在天氣一變頭就有感覺了*
-<audio src="MOS_25min/gt/f05-read-0127_gt.wav" controls preload></audio>
-#### *No. 5-3: 現在天氣一變頭就有感覺了*
-<audio src="MOS_25min/separate/f05-read-0127_separate.wav" controls preload></audio>
-#### *No. 5-4: 現在天氣一變頭就有感覺了*
-<audio src="MOS_25min/scratch/f05-read-0127_scratch.wav" controls preload></audio>
-#### *No. 5-5: 現在天氣一變頭就有感覺了*
-<audio src="MOS_25min/share/f05-read-0127_share.wav" controls preload></audio>
-- - -
-#### *No. 6-1: 然後替自己還有喘息的空間感到滿足*
-<audio src="MOS_25min/share/f05-read-0162_share.wav" controls preload></audio>
-#### *No. 6-2: 然後替自己還有喘息的空間感到滿足*
-<audio src="MOS_25min/map/f05-read-0162_map.wav" controls preload></audio>
-#### *No. 6-3: 然後替自己還有喘息的空間感到滿足*
-<audio src="MOS_25min/scratch/f05-read-0162_scratch.wav" controls preload></audio>
-#### *No. 6-4: 然後替自己還有喘息的空間感到滿足*
-<audio src="MOS_25min/gt/f05-read-0162_gt.wav" controls preload></audio>
-#### *No. 6-5: 然後替自己還有喘息的空間感到滿足*
-<audio src="MOS_25min/separate/f05-read-0162_separate.wav" controls preload></audio>
-- - -
-#### *No. 7-1: 我還在路上*
-<audio src="MOS_15min/map/f05-read-0333_map.wav" controls preload></audio>
-#### *No. 7-2: 我還在路上*
-<audio src="MOS_15min/gt/f05-read-0333_gt.wav" controls preload></audio>
-#### *No. 7-3: 我還在路上*
-<audio src="MOS_15min/scratch/f05-read-0333_scratch.wav" controls preload></audio>
-#### *No. 7-4: 我還在路上*
-<audio src="MOS_15min/separate/f05-read-0333_separate.wav" controls preload></audio>
-#### *No. 7-5: 我還在路上*
-<audio src="MOS_15min/share/f05-read-0333_share.wav" controls preload></audio>
-- - -
-#### *No. 8-1: 就要在大阪多待一天了*
-<audio src="MOS_25min/separate/f05-read-0065_separate.wav" controls preload></audio>
-#### *No. 8-2: 就要在大阪多待一天了*
+#### *No. 2-1: 就要在大阪多待一天了*
 <audio src="MOS_25min/map/f05-read-0065_map.wav" controls preload></audio>
-#### *No. 8-3: 就要在大阪多待一天了*
+#### *No. 2-2: 就要在大阪多待一天了*
+<audio src="MOS_25min/separate/f05-read-0065_separate.wav" controls preload></audio>
+#### *No. 2-3: 就要在大阪多待一天了*
 <audio src="MOS_25min/gt/f05-read-0065_gt.wav" controls preload></audio>
-#### *No. 8-4: 就要在大阪多待一天了*
-<audio src="MOS_25min/scratch/f05-read-0065_scratch.wav" controls preload></audio>
-#### *No. 8-5: 就要在大阪多待一天了*
+#### *No. 2-4: 就要在大阪多待一天了*
 <audio src="MOS_25min/share/f05-read-0065_share.wav" controls preload></audio>
+#### *No. 2-5: 就要在大阪多待一天了*
+<audio src="MOS_25min/scratch/f05-read-0065_scratch.wav" controls preload></audio>
 - - -
-#### *No. 9-1: 時間感太差了*
-<audio src="MOS_15min/share/f05-read-0518_share.wav" controls preload></audio>
-#### *No. 9-2: 時間感太差了*
-<audio src="MOS_15min/map/f05-read-0518_map.wav" controls preload></audio>
-#### *No. 9-3: 時間感太差了*
-<audio src="MOS_15min/scratch/f05-read-0518_scratch.wav" controls preload></audio>
-#### *No. 9-4: 時間感太差了*
-<audio src="MOS_15min/gt/f05-read-0518_gt.wav" controls preload></audio>
-#### *No. 9-5: 時間感太差了*
+#### *No. 3-1: 我可能得搭計程車過去了*
+<audio src="MOS_25min/scratch/f05-read-0302_scratch.wav" controls preload></audio>
+#### *No. 3-2: 我可能得搭計程車過去了*
+<audio src="MOS_25min/share/f05-read-0302_share.wav" controls preload></audio>
+#### *No. 3-3: 我可能得搭計程車過去了*
+<audio src="MOS_25min/map/f05-read-0302_map.wav" controls preload></audio>
+#### *No. 3-4: 我可能得搭計程車過去了*
+<audio src="MOS_25min/separate/f05-read-0302_separate.wav" controls preload></audio>
+#### *No. 3-5: 我可能得搭計程車過去了*
+<audio src="MOS_25min/gt/f05-read-0302_gt.wav" controls preload></audio>
+- - -
+#### *No. 4-1: 為什麼我沒看到*
+<audio src="MOS_15min/scratch/f05-read-0396_scratch.wav" controls preload></audio>
+#### *No. 4-2: 為什麼我沒看到*
+<audio src="MOS_15min/gt/f05-read-0396_gt.wav" controls preload></audio>
+#### *No. 4-3: 為什麼我沒看到*
+<audio src="MOS_15min/share/f05-read-0396_share.wav" controls preload></audio>
+#### *No. 4-4: 為什麼我沒看到*
+<audio src="MOS_15min/separate/f05-read-0396_separate.wav" controls preload></audio>
+#### *No. 4-5: 為什麼我沒看到*
+<audio src="MOS_15min/map/f05-read-0396_map.wav" controls preload></audio>
+- - -
+#### *No. 5-1: 謝謝那些不會過季的人*
+<audio src="MOS_25min/share/f05-read-0212_share.wav" controls preload></audio>
+#### *No. 5-2: 謝謝那些不會過季的人*
+<audio src="MOS_25min/gt/f05-read-0212_gt.wav" controls preload></audio>
+#### *No. 5-3: 謝謝那些不會過季的人*
+<audio src="MOS_25min/scratch/f05-read-0212_scratch.wav" controls preload></audio>
+#### *No. 5-4: 謝謝那些不會過季的人*
+<audio src="MOS_25min/map/f05-read-0212_map.wav" controls preload></audio>
+#### *No. 5-5: 謝謝那些不會過季的人*
+<audio src="MOS_25min/separate/f05-read-0212_separate.wav" controls preload></audio>
+- - -
+#### *No. 6-1: 已經可以準備過下個紀念日*
+<audio src="MOS_25min/gt/f05-read-0515_gt.wav" controls preload></audio>
+#### *No. 6-2: 已經可以準備過下個紀念日*
+<audio src="MOS_25min/map/f05-read-0515_map.wav" controls preload></audio>
+#### *No. 6-3: 已經可以準備過下個紀念日*
+<audio src="MOS_25min/share/f05-read-0515_share.wav" controls preload></audio>
+#### *No. 6-4: 已經可以準備過下個紀念日*
+<audio src="MOS_25min/scratch/f05-read-0515_scratch.wav" controls preload></audio>
+#### *No. 6-5: 已經可以準備過下個紀念日*
+<audio src="MOS_25min/separate/f05-read-0515_separate.wav" controls preload></audio>
+- - -
+#### *No. 7-1: 都這時候了還丟新東西出來*
+<audio src="MOS_25min/share/f05-read-0269_share.wav" controls preload></audio>
+#### *No. 7-2: 都這時候了還丟新東西出來*
+<audio src="MOS_25min/gt/f05-read-0269_gt.wav" controls preload></audio>
+#### *No. 7-3: 都這時候了還丟新東西出來*
+<audio src="MOS_25min/separate/f05-read-0269_separate.wav" controls preload></audio>
+#### *No. 7-4: 都這時候了還丟新東西出來*
+<audio src="MOS_25min/scratch/f05-read-0269_scratch.wav" controls preload></audio>
+#### *No. 7-5: 都這時候了還丟新東西出來*
+<audio src="MOS_25min/map/f05-read-0269_map.wav" controls preload></audio>
+- - -
+#### *No. 8-1: 加油加油快考完我等你*
+<audio src="MOS_15min/gt/f05-read-0916_gt.wav" controls preload></audio>
+#### *No. 8-2: 加油加油快考完我等你*
+<audio src="MOS_15min/separate/f05-read-0916_separate.wav" controls preload></audio>
+#### *No. 8-3: 加油加油快考完我等你*
+<audio src="MOS_15min/scratch/f05-read-0916_scratch.wav" controls preload></audio>
+#### *No. 8-4: 加油加油快考完我等你*
+<audio src="MOS_15min/map/f05-read-0916_map.wav" controls preload></audio>
+#### *No. 8-5: 加油加油快考完我等你*
+<audio src="MOS_15min/share/f05-read-0916_share.wav" controls preload></audio>
+- - -
+#### *No. 9-1: 我要把你綁架去野餐*
+<audio src="MOS_15min/map/f05-read-0644_map.wav" controls preload></audio>
+#### *No. 9-2: 我要把你綁架去野餐*
+<audio src="MOS_15min/scratch/f05-read-0644_scratch.wav" controls preload></audio>
+#### *No. 9-3: 我要把你綁架去野餐*
+<audio src="MOS_15min/separate/f05-read-0644_separate.wav" controls preload></audio>
+#### *No. 9-4: 我要把你綁架去野餐*
+<audio src="MOS_15min/share/f05-read-0644_share.wav" controls preload></audio>
+#### *No. 9-5: 我要把你綁架去野餐*
+<audio src="MOS_15min/gt/f05-read-0644_gt.wav" controls preload></audio>
+- - -
+#### *No. 10-1: 時間感太差了*
 <audio src="MOS_15min/separate/f05-read-0518_separate.wav" controls preload></audio>
+#### *No. 10-2: 時間感太差了*
+<audio src="MOS_15min/map/f05-read-0518_map.wav" controls preload></audio>
+#### *No. 10-3: 時間感太差了*
+<audio src="MOS_15min/scratch/f05-read-0518_scratch.wav" controls preload></audio>
+#### *No. 10-4: 時間感太差了*
+<audio src="MOS_15min/gt/f05-read-0518_gt.wav" controls preload></audio>
+#### *No. 10-5: 時間感太差了*
+<audio src="MOS_15min/share/f05-read-0518_share.wav" controls preload></audio>
 - - -

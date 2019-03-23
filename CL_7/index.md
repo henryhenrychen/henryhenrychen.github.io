@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#### 這部份將會有9組各5個音檔
+#### 這部份將會有10組各5個音檔
 #### 每一組的內容都有其對應的文字
 #### 請使用"耳機"並仔細聽完
 #### 並根據:
@@ -18,102 +18,113 @@ layout: default
 
 - - -
 
-#### *No. 1-1: 話別說一半啊*
-<audio src="MOS_25min/share/f05-read-0477_share.wav" controls preload></audio>
-#### *No. 1-2: 話別說一半啊*
-<audio src="MOS_25min/scratch/f05-read-0477_scratch.wav" controls preload></audio>
-#### *No. 1-3: 話別說一半啊*
-<audio src="MOS_25min/map/f05-read-0477_map.wav" controls preload></audio>
-#### *No. 1-4: 話別說一半啊*
-<audio src="MOS_25min/gt/f05-read-0477_gt.wav" controls preload></audio>
-#### *No. 1-5: 話別說一半啊*
-<audio src="MOS_25min/separate/f05-read-0477_separate.wav" controls preload></audio>
+#### *No. 1-1: 但想必也最是難忘*
+<audio src="MOS_25min/gt/f05-read-0355_gt.wav" controls preload></audio>
+#### *No. 1-2: 但想必也最是難忘*
+<audio src="MOS_25min/map/f05-read-0355_map.wav" controls preload></audio>
+#### *No. 1-3: 但想必也最是難忘*
+<audio src="MOS_25min/separate/f05-read-0355_separate.wav" controls preload></audio>
+#### *No. 1-4: 但想必也最是難忘*
+<audio src="MOS_25min/scratch/f05-read-0355_scratch.wav" controls preload></audio>
+#### *No. 1-5: 但想必也最是難忘*
+<audio src="MOS_25min/share/f05-read-0355_share.wav" controls preload></audio>
 - - -
-#### *No. 2-1: 我的糖糖呢*
-<audio src="MOS_15min/scratch/f05-read-0217_scratch.wav" controls preload></audio>
-#### *No. 2-2: 我的糖糖呢*
-<audio src="MOS_15min/share/f05-read-0217_share.wav" controls preload></audio>
-#### *No. 2-3: 我的糖糖呢*
-<audio src="MOS_15min/gt/f05-read-0217_gt.wav" controls preload></audio>
-#### *No. 2-4: 我的糖糖呢*
-<audio src="MOS_15min/map/f05-read-0217_map.wav" controls preload></audio>
-#### *No. 2-5: 我的糖糖呢*
-<audio src="MOS_15min/separate/f05-read-0217_separate.wav" controls preload></audio>
+#### *No. 2-1: 旅行本身並不能幫你解決任何問題*
+<audio src="MOS_15min/scratch/f05-read-0550_scratch.wav" controls preload></audio>
+#### *No. 2-2: 旅行本身並不能幫你解決任何問題*
+<audio src="MOS_15min/separate/f05-read-0550_separate.wav" controls preload></audio>
+#### *No. 2-3: 旅行本身並不能幫你解決任何問題*
+<audio src="MOS_15min/share/f05-read-0550_share.wav" controls preload></audio>
+#### *No. 2-4: 旅行本身並不能幫你解決任何問題*
+<audio src="MOS_15min/gt/f05-read-0550_gt.wav" controls preload></audio>
+#### *No. 2-5: 旅行本身並不能幫你解決任何問題*
+<audio src="MOS_15min/map/f05-read-0550_map.wav" controls preload></audio>
 - - -
-#### *No. 3-1: 你必須過得好好的*
-<audio src="MOS_15min/share/f05-read-0251_share.wav" controls preload></audio>
-#### *No. 3-2: 你必須過得好好的*
-<audio src="MOS_15min/gt/f05-read-0251_gt.wav" controls preload></audio>
-#### *No. 3-3: 你必須過得好好的*
-<audio src="MOS_15min/scratch/f05-read-0251_scratch.wav" controls preload></audio>
-#### *No. 3-4: 你必須過得好好的*
-<audio src="MOS_15min/separate/f05-read-0251_separate.wav" controls preload></audio>
-#### *No. 3-5: 你必須過得好好的*
-<audio src="MOS_15min/map/f05-read-0251_map.wav" controls preload></audio>
+#### *No. 3-1: 睡一個睡眠週期正好出門*
+<audio src="MOS_15min/gt/f05-read-0059_gt.wav" controls preload></audio>
+#### *No. 3-2: 睡一個睡眠週期正好出門*
+<audio src="MOS_15min/separate/f05-read-0059_separate.wav" controls preload></audio>
+#### *No. 3-3: 睡一個睡眠週期正好出門*
+<audio src="MOS_15min/map/f05-read-0059_map.wav" controls preload></audio>
+#### *No. 3-4: 睡一個睡眠週期正好出門*
+<audio src="MOS_15min/scratch/f05-read-0059_scratch.wav" controls preload></audio>
+#### *No. 3-5: 睡一個睡眠週期正好出門*
+<audio src="MOS_15min/share/f05-read-0059_share.wav" controls preload></audio>
 - - -
-#### *No. 4-1: 也是滿有趣的啦*
-<audio src="MOS_15min/share/f05-read-0856_share.wav" controls preload></audio>
-#### *No. 4-2: 也是滿有趣的啦*
-<audio src="MOS_15min/scratch/f05-read-0856_scratch.wav" controls preload></audio>
-#### *No. 4-3: 也是滿有趣的啦*
-<audio src="MOS_15min/separate/f05-read-0856_separate.wav" controls preload></audio>
-#### *No. 4-4: 也是滿有趣的啦*
-<audio src="MOS_15min/gt/f05-read-0856_gt.wav" controls preload></audio>
-#### *No. 4-5: 也是滿有趣的啦*
-<audio src="MOS_15min/map/f05-read-0856_map.wav" controls preload></audio>
+#### *No. 4-1: 外頭景色很美*
+<audio src="MOS_25min/map/f05-read-0116_map.wav" controls preload></audio>
+#### *No. 4-2: 外頭景色很美*
+<audio src="MOS_25min/share/f05-read-0116_share.wav" controls preload></audio>
+#### *No. 4-3: 外頭景色很美*
+<audio src="MOS_25min/scratch/f05-read-0116_scratch.wav" controls preload></audio>
+#### *No. 4-4: 外頭景色很美*
+<audio src="MOS_25min/gt/f05-read-0116_gt.wav" controls preload></audio>
+#### *No. 4-5: 外頭景色很美*
+<audio src="MOS_25min/separate/f05-read-0116_separate.wav" controls preload></audio>
 - - -
-#### *No. 5-1: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/separate/f05-read-0035_separate.wav" controls preload></audio>
-#### *No. 5-2: 就會開始懷念那些包包揹著就走*
+#### *No. 5-1: 你明天還會在嗎*
+<audio src="MOS_25min/map/f05-read-0106_map.wav" controls preload></audio>
+#### *No. 5-2: 你明天還會在嗎*
+<audio src="MOS_25min/share/f05-read-0106_share.wav" controls preload></audio>
+#### *No. 5-3: 你明天還會在嗎*
+<audio src="MOS_25min/scratch/f05-read-0106_scratch.wav" controls preload></audio>
+#### *No. 5-4: 你明天還會在嗎*
+<audio src="MOS_25min/gt/f05-read-0106_gt.wav" controls preload></audio>
+#### *No. 5-5: 你明天還會在嗎*
+<audio src="MOS_25min/separate/f05-read-0106_separate.wav" controls preload></audio>
+- - -
+#### *No. 6-1: 我可能得搭計程車過去了*
+<audio src="MOS_15min/map/f05-read-0302_map.wav" controls preload></audio>
+#### *No. 6-2: 我可能得搭計程車過去了*
+<audio src="MOS_15min/gt/f05-read-0302_gt.wav" controls preload></audio>
+#### *No. 6-3: 我可能得搭計程車過去了*
+<audio src="MOS_15min/separate/f05-read-0302_separate.wav" controls preload></audio>
+#### *No. 6-4: 我可能得搭計程車過去了*
+<audio src="MOS_15min/share/f05-read-0302_share.wav" controls preload></audio>
+#### *No. 6-5: 我可能得搭計程車過去了*
+<audio src="MOS_15min/scratch/f05-read-0302_scratch.wav" controls preload></audio>
+- - -
+#### *No. 7-1: 就會開始懷念那些包包揹著就走*
 <audio src="MOS_25min/gt/f05-read-0035_gt.wav" controls preload></audio>
-#### *No. 5-3: 就會開始懷念那些包包揹著就走*
-<audio src="MOS_25min/share/f05-read-0035_share.wav" controls preload></audio>
-#### *No. 5-4: 就會開始懷念那些包包揹著就走*
+#### *No. 7-2: 就會開始懷念那些包包揹著就走*
+<audio src="MOS_25min/separate/f05-read-0035_separate.wav" controls preload></audio>
+#### *No. 7-3: 就會開始懷念那些包包揹著就走*
 <audio src="MOS_25min/map/f05-read-0035_map.wav" controls preload></audio>
-#### *No. 5-5: 就會開始懷念那些包包揹著就走*
+#### *No. 7-4: 就會開始懷念那些包包揹著就走*
+<audio src="MOS_25min/share/f05-read-0035_share.wav" controls preload></audio>
+#### *No. 7-5: 就會開始懷念那些包包揹著就走*
 <audio src="MOS_25min/scratch/f05-read-0035_scratch.wav" controls preload></audio>
 - - -
-#### *No. 6-1: 所以睡前都算是你的生日*
-<audio src="MOS_25min/separate/f05-read-0434_separate.wav" controls preload></audio>
-#### *No. 6-2: 所以睡前都算是你的生日*
-<audio src="MOS_25min/gt/f05-read-0434_gt.wav" controls preload></audio>
-#### *No. 6-3: 所以睡前都算是你的生日*
-<audio src="MOS_25min/map/f05-read-0434_map.wav" controls preload></audio>
-#### *No. 6-4: 所以睡前都算是你的生日*
-<audio src="MOS_25min/share/f05-read-0434_share.wav" controls preload></audio>
-#### *No. 6-5: 所以睡前都算是你的生日*
-<audio src="MOS_25min/scratch/f05-read-0434_scratch.wav" controls preload></audio>
+#### *No. 8-1: 祝你快快寫出好玩的新遊戲*
+<audio src="MOS_15min/scratch/f05-read-0028_scratch.wav" controls preload></audio>
+#### *No. 8-2: 祝你快快寫出好玩的新遊戲*
+<audio src="MOS_15min/gt/f05-read-0028_gt.wav" controls preload></audio>
+#### *No. 8-3: 祝你快快寫出好玩的新遊戲*
+<audio src="MOS_15min/map/f05-read-0028_map.wav" controls preload></audio>
+#### *No. 8-4: 祝你快快寫出好玩的新遊戲*
+<audio src="MOS_15min/separate/f05-read-0028_separate.wav" controls preload></audio>
+#### *No. 8-5: 祝你快快寫出好玩的新遊戲*
+<audio src="MOS_15min/share/f05-read-0028_share.wav" controls preload></audio>
 - - -
-#### *No. 7-1: 照顧好自己喔*
-<audio src="MOS_25min/gt/f05-read-0996_gt.wav" controls preload></audio>
-#### *No. 7-2: 照顧好自己喔*
-<audio src="MOS_25min/share/f05-read-0996_share.wav" controls preload></audio>
-#### *No. 7-3: 照顧好自己喔*
-<audio src="MOS_25min/map/f05-read-0996_map.wav" controls preload></audio>
-#### *No. 7-4: 照顧好自己喔*
-<audio src="MOS_25min/separate/f05-read-0996_separate.wav" controls preload></audio>
-#### *No. 7-5: 照顧好自己喔*
-<audio src="MOS_25min/scratch/f05-read-0996_scratch.wav" controls preload></audio>
+#### *No. 9-1: 乖乖上課乖乖唸講義*
+<audio src="MOS_15min/map/f05-read-0285_map.wav" controls preload></audio>
+#### *No. 9-2: 乖乖上課乖乖唸講義*
+<audio src="MOS_15min/scratch/f05-read-0285_scratch.wav" controls preload></audio>
+#### *No. 9-3: 乖乖上課乖乖唸講義*
+<audio src="MOS_15min/share/f05-read-0285_share.wav" controls preload></audio>
+#### *No. 9-4: 乖乖上課乖乖唸講義*
+<audio src="MOS_15min/separate/f05-read-0285_separate.wav" controls preload></audio>
+#### *No. 9-5: 乖乖上課乖乖唸講義*
+<audio src="MOS_15min/gt/f05-read-0285_gt.wav" controls preload></audio>
 - - -
-#### *No. 8-1: 兩色都滿好看的不錯*
-<audio src="MOS_25min/gt/f05-read-0705_gt.wav" controls preload></audio>
-#### *No. 8-2: 兩色都滿好看的不錯*
-<audio src="MOS_25min/separate/f05-read-0705_separate.wav" controls preload></audio>
-#### *No. 8-3: 兩色都滿好看的不錯*
-<audio src="MOS_25min/scratch/f05-read-0705_scratch.wav" controls preload></audio>
-#### *No. 8-4: 兩色都滿好看的不錯*
-<audio src="MOS_25min/map/f05-read-0705_map.wav" controls preload></audio>
-#### *No. 8-5: 兩色都滿好看的不錯*
-<audio src="MOS_25min/share/f05-read-0705_share.wav" controls preload></audio>
-- - -
-#### *No. 9-1: 一直做夢一直做夢一直做夢*
-<audio src="MOS_15min/gt/f05-read-0925_gt.wav" controls preload></audio>
-#### *No. 9-2: 一直做夢一直做夢一直做夢*
-<audio src="MOS_15min/scratch/f05-read-0925_scratch.wav" controls preload></audio>
-#### *No. 9-3: 一直做夢一直做夢一直做夢*
-<audio src="MOS_15min/map/f05-read-0925_map.wav" controls preload></audio>
-#### *No. 9-4: 一直做夢一直做夢一直做夢*
-<audio src="MOS_15min/separate/f05-read-0925_separate.wav" controls preload></audio>
-#### *No. 9-5: 一直做夢一直做夢一直做夢*
-<audio src="MOS_15min/share/f05-read-0925_share.wav" controls preload></audio>
+#### *No. 10-1: 現在天氣一變頭就有感覺了*
+<audio src="MOS_25min/separate/f05-read-0127_separate.wav" controls preload></audio>
+#### *No. 10-2: 現在天氣一變頭就有感覺了*
+<audio src="MOS_25min/map/f05-read-0127_map.wav" controls preload></audio>
+#### *No. 10-3: 現在天氣一變頭就有感覺了*
+<audio src="MOS_25min/share/f05-read-0127_share.wav" controls preload></audio>
+#### *No. 10-4: 現在天氣一變頭就有感覺了*
+<audio src="MOS_25min/gt/f05-read-0127_gt.wav" controls preload></audio>
+#### *No. 10-5: 現在天氣一變頭就有感覺了*
+<audio src="MOS_25min/scratch/f05-read-0127_scratch.wav" controls preload></audio>
 - - -
